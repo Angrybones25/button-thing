@@ -1,0 +1,77 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.flexbox-container
+{
+  
+}
+.flexbox-item
+{
+    
+}
+.flexbox-item-1
+{
+   
+}
+.flexbox-item-2
+{  
+}
+.flexbox-item-3
+{
+   
+}
+.head
+{
+    text-align:center;
+}
+.nav
+{
+    text-align:center;
+}
+.beacon
+{
+    text-align: center;
+    width:auto;
+    height:600px;
+    background-image:url("images/the-beacon.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.beacon-text
+{
+    display:inline-block;
+    justify-content: right;
+    background-color:black;
+    color:white;
+    margin-right:100px;
+}
+.b1
+{
+    text-align:center;
+}
+.b2
+{
+    
+}
+.b3
+{
+    
+}
+.b4
+{
+    
+}
+.b5
+{
+    
+}
+.Footer
+{
+    text-align:center;
+    color:white;
+    height:176px;
+    background-color: rgb(12,14,13);
+}
