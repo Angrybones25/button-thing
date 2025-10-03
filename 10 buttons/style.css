@@ -1,0 +1,8 @@
+#btn, button
+{
+    margin:5px;
+    padding:10px 20px;
+    border:none;
+    color:rgb(166, 24, 179);
+    display:block;
+}
